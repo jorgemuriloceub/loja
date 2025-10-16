@@ -1,1 +1,1 @@
-# loja
+# sistema de gerenciamento
