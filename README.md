@@ -11,3 +11,8 @@ O projeto foi desenvolvido com o objetivo de praticar orientação a objetos, re
 - RepositoryCliente.java
 - RepositoryFuncionario.java
 - RepositoryProduto.java
+- Main.java
+- ModelCliente.java
+- ModelFuncionario.java
+- ModelProduto.java
+# testes
