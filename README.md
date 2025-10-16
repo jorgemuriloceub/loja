@@ -16,3 +16,7 @@ O projeto foi desenvolvido com o objetivo de praticar orientação a objetos, re
 - ModelFuncionario.java
 - ModelProduto.java
 # testes
+- cadastramos 2 fucionários, 2 produtos e 2 clientes
+- excluimos de cada um
+- atualizamos de cada um
+- listamos tudo e confirmamos as alterações
